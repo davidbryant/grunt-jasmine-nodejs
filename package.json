@@ -44,7 +44,7 @@
   "dependencies": {
     "grunt": "^1.0.1",
     "jasmine-console-reporter": "^1.2.7",
-    "jasmine-core": "^2.4.1",
+    "jasmine-core": "2.4.1",
     "jasmine-reporters": "^2.2.0",
     "lodash": "^4.15.0"
   },
